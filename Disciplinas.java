@@ -1,5 +1,3 @@
-import java.util.Arraylist;
-
 public class Disciplina{
     private String nome;
     private String professor;

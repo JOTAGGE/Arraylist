@@ -5,7 +5,7 @@ public class Disciplina{
     private String professor;
 
     public Disciplina(String nome){
-        this.nome = noem;
+        this.nome = nome;
         this.professor = null;
     }
     //getters e setters da classe

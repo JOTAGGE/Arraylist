@@ -1,4 +1,4 @@
-public class Professor{
+public class professor{
     private String nome;
     private Arraylist<Disciplina> disciplinas;
 
@@ -8,8 +8,9 @@ public class Professor{
     }
 
     //getters e setters da classe
-    public void add Disciplina(Disciplina diciplina){
-        if(disciplinas == null){
+    public void professor (disciplinas diciplina){
+        if(disciplinas == null)
+        {
             disciplinas = new Arrayulist<>();
 
         }

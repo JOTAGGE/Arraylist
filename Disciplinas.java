@@ -1,4 +1,4 @@
-public class Disciplina{
+public class disciplinas{
     private String nome;
     private String professor;
 

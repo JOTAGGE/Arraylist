@@ -2,7 +2,7 @@ public class disciplinas{
     private String nome;
     private String professor;
 
-    public Disciplina(String nome){
+    public disciplinas(String nome){
         this.nome = nome;
         this.professor = null;
     }

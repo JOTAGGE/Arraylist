@@ -1,4 +1,4 @@
-public class professor{
+public class professor<disciplinas, disciplinas, disciplinas, disciplinas, disciplinas, disciplinas>{
     private String nome;
     private Arraylist<Disciplina> disciplinas;
 
@@ -11,7 +11,7 @@ public class professor{
     public void professor (disciplinas diciplina){
         if(disciplinas == null)
         {
-            disciplinas = new Arrayulist<>();
+            disciplinas = new Arraylist<>();
 
         }
     }
